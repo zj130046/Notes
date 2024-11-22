@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "89b90896a1b4afba",
+    "type": "split",
+    "children": [
+      {
+        "id": "0715733072adf8bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1945a205855bf9e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "42.useRef与TS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "42.useRef与TS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a10ee49cccf6bb79",
+    "type": "split",
+    "children": [
+      {
+        "id": "62ecd97f16f4b58b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c35f62f5aad85c23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1310efe27583c11a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7ee3d95d362086f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a629bbbd0366a765",
+    "type": "split",
+    "children": [
+      {
+        "id": "5842bd5ef97c848d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39624673fe4bc5be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2.JSX.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2.JSX 的反向链接列表"
+            }
+          },
+          {
+            "id": "a2b5cd6735ed58a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2.JSX.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2.JSX 的出链列表"
+            }
+          },
+          {
+            "id": "d1b628c44742d475",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e0088e6380c4027c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "42.useRef与TS.md"
+              },
+              "icon": "lucide-list",
+              "title": "42.useRef与TS 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1945a205855bf9e4",
+  "lastOpenFiles": [
+    "41.Props与TS.md",
+    "42.useRef与TS.md",
+    "15.优化b站评论案例.md",
+    "8.受控表单绑定.md",
+    "12.useEffect.md",
+    "Pasted image 20241122213159.png",
+    "Pasted image 20241122212556.png",
+    "40.react+TS.md",
+    "Pasted image 20241122212209.png",
+    "11.组件通信.md",
+    "25.记账本.md",
+    "27.登录.md",
+    "30.编辑网站.md",
+    "Pasted image 20241122211122.png",
+    "Pasted image 20241122210646.png",
+    "Pasted image 20241122210257.png",
+    "Pasted image 20241122205821.png",
+    "Pasted image 20241122205618.png",
+    "Pasted image 20241122204943.png",
+    "Pasted image 20241122204517.png",
+    "39.zustand.md",
+    "38.Class类组件.md",
+    "37.useInperativeHandlle.md",
+    "36.forwardRef.md",
+    "35.useCallback.md",
+    "34.React.memo.md",
+    "33.useMemo.md",
+    "32.useReducer.md",
+    "31.项目打包和本地预览.md",
+    "29.文章列表.md",
+    "28.文章发布.md",
+    "26.使用CRA初始化项目环境.md",
+    "1.开发环境创建.md",
+    "19.美团案例.md",
+    "13.自定义Hook函数.md",
+    "14.ReactHooks使用规则.md"
+  ]
+}

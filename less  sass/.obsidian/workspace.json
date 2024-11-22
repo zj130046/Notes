@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "c3bede18a6a8826c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1379b5654d1ae7ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b7ea9c8cac9b2de",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0db6b6edd7793f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d37573ee44f8a0a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be116ccca1a5a459",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "59fb249941b21220",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d8cd3e8ef93fdc8b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "69c8645c4116452e",
+    "type": "split",
+    "children": [
+      {
+        "id": "263788c6bcbd8a6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9517a83b6d9cc072",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2.sass.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2.sass 的反向链接列表"
+            }
+          },
+          {
+            "id": "8f6569d2a36f3c57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2.sass.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2.sass 的出链列表"
+            }
+          },
+          {
+            "id": "b049eef2cd70319b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "96786573c0792fdc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7b7ea9c8cac9b2de",
+  "lastOpenFiles": [
+    "2.sass.md",
+    "Pasted image 20241109163237.png",
+    "Pasted image 20241109163029.png",
+    "Pasted image 20241109162919.png",
+    "Pasted image 20241109162702.png",
+    "Pasted image 20241109162453.png",
+    "Pasted image 20241109162325.png",
+    "Pasted image 20241109162107.png",
+    "Pasted image 20241109162101.png",
+    "Pasted image 20241109161909.png",
+    "1.less.md",
+    "Pasted image 20241109161358.png"
+  ]
+}

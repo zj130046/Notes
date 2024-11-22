@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "0359440fce97a6ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "49a618ae80d36e48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c89af8fcd917be4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6aaf1ca0f1e7afaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9edb3499996aa82a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88b34f1025bd7f5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f3cf42e40e9fd2b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d23e132ec2eedc16",
+    "type": "split",
+    "children": [
+      {
+        "id": "0db17a30383db7dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04e20b309c9ea4b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "cea87fd81d2cce74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "bf272aed3646d1c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "832dcd4192ff36e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6c89af8fcd917be4",
+  "lastOpenFiles": [
+    "10.ECMAScript默认导出导入.assets/image-20241027205836900.png",
+    "7.案例-浏览时钟.md",
+    "未命名.canvas",
+    "2024-10-27.md",
+    "11.ECMAScript命名导出导入.md",
+    "8.模块化.md",
+    "5.URL中的端口号.md",
+    "4.案例-压缩前端html.md",
+    "1.认识node.js.md",
+    "2.fs模块.md",
+    "9.nodemon.md",
+    "10.ECMAScript默认导出导入.md",
+    "3.path模块.md",
+    "6.HTTP模块.md",
+    "10.ECMAScript.assets/image-20241027205102096.png",
+    "8.模块化.assets/image-20241027194831735.png"
+  ]
+}

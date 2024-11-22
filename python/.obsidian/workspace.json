@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "783e4f5cd627f231",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b1b5e4a3c58eaf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a451d1c0648560b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "38.进程的语法结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "38.进程的语法结构"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3977d902b08fc1b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "048c6ed1fd669836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85d96955ad86f002",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "34e0114e2ad025ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ff39202e6be63997",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "76e8413721535d7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f269ee4fdbb85ff0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23e13c162f572c57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5.字符串编码.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "5.字符串编码 的反向链接列表"
+            }
+          },
+          {
+            "id": "e4a9bb9cf71e533a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5.字符串编码.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "5.字符串编码 的出链列表"
+            }
+          },
+          {
+            "id": "731c0752ae3c0e41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "37fbc149321ade43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "38.进程的语法结构.md"
+              },
+              "icon": "lucide-list",
+              "title": "38.进程的语法结构 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8a451d1c0648560b",
+  "lastOpenFiles": [
+    "未命名 6.canvas",
+    "未命名 5.canvas",
+    "未命名 4.canvas",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "37.多线程.md",
+    "39.协程.md",
+    "41.匹配分组.md",
+    "40.正则表达式.md",
+    "Pasted image 20241106000306.png",
+    "Pasted image 20241106000010.png",
+    "Pasted image 20241105235930.png",
+    "Pasted image 20241105235601.png",
+    "Pasted image 20241105235516.png",
+    "Pasted image 20241105235144.png",
+    "Pasted image 20241105234800.png",
+    "Pasted image 20241105234518.png",
+    "Pasted image 20241105234441.png",
+    "Pasted image 20241105233116.png",
+    "38.线程同步.md",
+    "38.进程的语法结构.md",
+    "36.线程.md",
+    "34.迭代器.md",
+    "33.目录常用操作.md",
+    "32.编码格式.md",
+    "31.文件访问模式.md",
+    "30.文件.md",
+    "15.参数.md",
+    "35.生成器.md",
+    "29.魔法方法.md",
+    "27. 实例方法 静态方法 类方法.md",
+    "28.单例模式.md",
+    "19.异常模块与包.md",
+    "18.内置函数与拆包.md",
+    "17.作用域 匿名函数.md",
+    "26.多态.md",
+    "25.新式类写法.md",
+    "24.继承.md",
+    "23.封装.md",
+    "21.装饰器.md"
+  ]
+}

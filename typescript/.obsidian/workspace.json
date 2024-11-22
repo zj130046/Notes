@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "845dd3b1d5566eb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f6c0ed7b600f8a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8624813c0ecb6b84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.ts常用类型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.ts常用类型"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cacf65d3dbdc7f51",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1af0653a9897abd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13ee0a4f880a1a7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f7d6e21c32b715d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7b99327f21f6331f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5
+  },
+  "right": {
+    "id": "29f7dde7711221d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "527bc949e4cbc46c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "706127d632798b2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10.枚举类型.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "10.枚举类型 的反向链接列表"
+            }
+          },
+          {
+            "id": "cd1d00b967c6b003",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10.枚举类型.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "10.枚举类型 的出链列表"
+            }
+          },
+          {
+            "id": "d199eec967cb8f69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3f23e69a65c7b407",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3.ts常用类型.md"
+              },
+              "icon": "lucide-list",
+              "title": "3.ts常用类型 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8624813c0ecb6b84",
+  "lastOpenFiles": [
+    "4.类型注解.md",
+    "3.ts常用类型.md",
+    "5.常用基础类型概述.md",
+    "6.接口.md",
+    "7.元组.md",
+    "9.字面量类型.md",
+    "8.类型推论 类型断言.md",
+    "11.any类型.md",
+    "10.枚举类型.md",
+    "12.typeof操作符.md",
+    "15.类型兼容性.md",
+    "16.泛型.md",
+    "22.TS配置文件.md",
+    "21.TS的项目目录结构说明.md",
+    "20.在react中使用ts.md",
+    "19.类型声明文件.md",
+    "17.索引签名类型.md",
+    "14.class类.md",
+    "13.ts高级类型.md",
+    "2.编译运行ts.md",
+    "1.typescript介绍.md",
+    "23.react的常用类型.md",
+    "Pasted image 20241109112729.png",
+    "Pasted image 20241109112028.png",
+    "Pasted image 20241109111533.png",
+    "Pasted image 20241109111508.png",
+    "Pasted image 20241109110359.png",
+    "Pasted image 20241109105939.png",
+    "Pasted image 20241109105616.png",
+    "Pasted image 20241109105228.png",
+    "Pasted image 20241109105150.png",
+    "Pasted image 20241109104827.png",
+    "18.映射类型.md"
+  ]
+}
